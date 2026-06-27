@@ -20,3 +20,11 @@ npm install mask-utils
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'mask-utils';
+// See API section for available functions
+```
